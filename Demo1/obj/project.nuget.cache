@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kjLHfRLNNuhUt99Rt2rfraCdyVpMSvzc8sdbG9sL6qpcUdRkGvvQ82X5jc+YW3WaSxaNT0Id7bRCsebmrrPrQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyGit\\LiteDbDemo\\LiteDbDemo\\Demo1\\Demo1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\litedb\\5.0.19\\litedb.5.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
